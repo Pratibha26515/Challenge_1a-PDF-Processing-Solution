@@ -73,5 +73,4 @@ If you want to run locally (not in Docker):
 - Scripts check for missing files/directories and fail gracefully.
 - For best results, use Docker as described above.
 
-## License
-MIT (or specify your license) 
+## Team Coderzzz
