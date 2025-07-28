@@ -1,0 +1,10 @@
+# For PDF processing
+PyMuPDF==1.24.1
+
+# For machine learning model and data handling
+scikit-learn==1.4.2
+lightgbm==4.3.0
+numpy==1.26.4
+
+# For saving the trained model
+joblib==1.4.2
